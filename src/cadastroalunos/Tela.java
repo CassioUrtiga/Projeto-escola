@@ -52,11 +52,10 @@ public class Tela extends JFrame{
         setLocationRelativeTo(null);
         setResizable(false);
         
-        //FUNDO
         fundo.setSize(d);
         fundo.setBackground(new Color(13, 13, 13));
         
-        //BOTÕES
+        //JButton
         inserirE.setBounds(90, 30, 300, 50);
         inserirE.setFont(fonte);
         inserirE.setBackground(botCor);
@@ -128,9 +127,8 @@ public class Tela extends JFrame{
         
         evtAlterar = (e) ->{
             Alterar t = new Alterar("Alterar notas", new Dimension(900, 500));
-            //definir o listanomes no costrutor para usar em vários
-            String[] listaNomes = Main.arquivo.getNomesArquivo();
             
+            String[] listaNomes = Main.arquivo.getNomesArquivo();
             for (String nome : listaNomes){
                 Alterar.caixaNomes.addItem(nome);
             }
