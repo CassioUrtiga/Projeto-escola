@@ -1,4 +1,4 @@
-# Projeto sistema de escola
+# Projeto - gerenciamento de disciplinas
 
 > Status do Projeto: :heavy_check_mark: (concluido)
 
@@ -8,8 +8,6 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Layout da Aplicação](#deploy-da-aplicação-dash)
-
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
@@ -17,32 +15,30 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Descrição breve do projeto compondo um paragrafo ou dois. 
+  Sistema de gerenciamento de estudantes de uma escola. Seu objetivo é otimizar e gerenciar de forma eficaz as notas das disciplinas cadastradas
+  de cada estudante. Seu foco principal são as instituições de ensino e os próprios alunos que podem utilizá-lo.
+  
+  A forma de armazenamento dos dados é em arquivos txt, facilitando desse modo, a utilização de forma offline.
 </p>
 
 ## Funcionalidades
 
-:heavy_check_mark: Funcionalidade 1  
+:heavy_check_mark: Cadastrar estudantes 
 
-:heavy_check_mark: Funcionalidade 2  
+:heavy_check_mark: Adicionar disciplinas  
 
-:heavy_check_mark: Funcionalidade 3  
+:heavy_check_mark: Alterar dados / exluir
 
-:heavy_check_mark: Funcionalidade 4  
+:heavy_check_mark: Visualizar histórico  
 
-## Layout ou Deploy da Aplicação :dash:
-
-Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 ## Pré-requisitos
 
 :warning: Java
 
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação 
-
 ## Como rodar a aplicação :arrow_forward:
 
-explicar
+O usuário deverá ter o java instalado em sua máquina
 
 ## Licença 
 
