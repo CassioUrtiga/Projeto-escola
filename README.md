@@ -10,8 +10,6 @@
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
-
 ## Descrição do projeto 
 
 <p align="justify">
@@ -27,21 +25,13 @@
 
 :heavy_check_mark: Adicionar disciplinas  
 
-:heavy_check_mark: Alterar dados / exluir
+:heavy_check_mark: Alterar dados / excluir
 
 :heavy_check_mark: Visualizar histórico  
 
 
 ## Pré-requisitos
 
-:warning: Java
+- :warning: Java
 
-## Como rodar a aplicação :arrow_forward:
-
-O usuário deverá ter o java instalado em sua máquina
-
-## Licença 
-
-The [MIT License]() (MIT)
-
-Copyright :copyright: 2022 - Titulo do Projeto
+- O usuário deverá ter o java instalado em sua máquina
